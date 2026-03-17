@@ -1,5 +1,7 @@
-<img width="601" height="552" alt="image" src="https://github.com/user-attachments/assets/7196daed-a519-4d59-800d-6f4caca94e8b" /> <img width="1252" height="653" alt="image" src="https://github.com/user-attachments/assets/444f4c6d-f9c9-4d1c-968e-57d96f532ab5" />
-
+<p>
+   <img width="601" height="552" alt="image" src="https://github.com/user-attachments/assets/7196daed-a519-4d59-800d-6f4caca94e8b" />
+   <img width="1252" height="653" alt="image" src="https://github.com/user-attachments/assets/444f4c6d-f9c9-4d1c-968e-57d96f532ab5" />
+</p>
 
 # 📊 Dashboard de Gestão Lista de Tarefas
 
