@@ -1,3 +1,5 @@
+<img width="820" height="700" alt="image" src="https://github.com/user-attachments/assets/ce367177-ff4c-4364-a808-9d9f2516c2f9" />
+
 # 📊 Dashboard de Gestão Lista de Tarefas
 
 Este é um projeto Full-Stack desenvolvido como projeto de extensão universitária para o curso de Sistemas de Informação. A aplicação consiste em um "To-Do List" avançado e um painel de controle projetado para ajudar a organizar suas tarefas diárias, prioridades e categorias de forma simples e segura.
