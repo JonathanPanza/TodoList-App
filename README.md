@@ -1,4 +1,4 @@
-<img width="820" height="700" alt="image" src="https://github.com/user-attachments/assets/ce367177-ff4c-4364-a808-9d9f2516c2f9" />
+<img width="601" height="552" alt="image" src="https://github.com/user-attachments/assets/7196daed-a519-4d59-800d-6f4caca94e8b" />
 
 # 📊 Dashboard de Gestão Lista de Tarefas
 
